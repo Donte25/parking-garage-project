@@ -41,4 +41,9 @@ When the project is completed, commit the final changes, sync all pull requests,
 
 
 ###### List group responsiblities below:
+
 ###### Provide name and approxamite line numbers where each person wrote their code
+
+Donte - methods def __init__(self), def takeTicket(self), def leaveGarage(self)
+
+David - method def payForParking(self) and #main
