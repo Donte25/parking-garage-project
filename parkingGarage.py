@@ -129,6 +129,7 @@ while flag:
                 while found not in ['Y','N']:
                     print("\nERROR: Invalid Input")
                     found = input("Enter Y or N: ")
+                    found = found.upper()
                 if found == 'Y':
                     pg.currentTicket["paid"] = False
                     pg.payForParking()
