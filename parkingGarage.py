@@ -135,5 +135,6 @@ while flag:
                     pg.leaveGarage(user_name)
                 else:
                     pass
+        
         else:
             print("\n>>> NO EXISTING USERS <<<\n")
